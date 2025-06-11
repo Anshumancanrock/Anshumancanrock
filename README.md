@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **anshu.1239.as@gmail.com**
 
-- ⚡ Fun fact: **My commit history tells a better story than my journal.**
+- ⚡ Fun fact: **My commit history tells a better story than my journal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
