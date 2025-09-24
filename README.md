@@ -1,5 +1,4 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<br>
 <h1 align="center">Hi, I'm Anshuman Singh</h1>
 <h3 align="center">I enjoy building things that live on the web</h3>
 
