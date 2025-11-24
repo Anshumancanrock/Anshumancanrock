@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **full stack development in depth**
 
-- 👨‍💻 All of my projects are available at [anshuman.us](https://anshuman.us)
+- 👨‍💻 All of my projects are available at [anshuman.us](https://anshuman.fun)
 
 - 📫 How to reach me: **anshu.1239.as@gmail.com**
 
