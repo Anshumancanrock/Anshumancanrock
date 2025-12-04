@@ -1,12 +1,23 @@
 <h1 align="center">Hi, I'm Anshuman </h1>
 <h3 align="center">I enjoy building things that live on the web</h3>
 
-<img 
-  align="right"
-  width="280"
-  style="background:#0d1117;"
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-/>
+<picture>
+  <!-- Dark mode GIF -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/rePDfDWO3XoAAAAd" />
+
+  <!-- Light mode GIF -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+  <!-- Fallback (light mode settings preserved) -->
+  <img 
+    align="right"
+    width="280"
+    style="background:#0d1117;"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    alt="coding"
+  />
+</picture>
+
 <br><br>
 - 🌱 I’m currently learning **full stack development in depth**
 
