@@ -7,7 +7,7 @@
   style="background:#0d1117;"
   src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 />
-
+<br><br>
 - 🌱 I’m currently learning **full stack development in depth**
 
 - 👨‍💻 All my projects are available at [anshuman.fun](https://anshuman.fun)
